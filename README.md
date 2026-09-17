@@ -1,4 +1,8 @@
-﻿# MyFirstUE5Game
+﻿<div align="center">
+  <img src="Screenshots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+
+# MyFirstUE5Game
 
 My first game project built in Unreal Engine 5.
 
@@ -46,7 +50,5 @@ MyFirstUE5Game is developed using **Unreal Engine 5**, heavily utilizing the eng
 ---
 
 <div align="center">
-<sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
-<br><br>
 <img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
