@@ -1,4 +1,4 @@
-# MyFirstUE5Game
+﻿# MyFirstUE5Game
 
 My first game project built in Unreal Engine 5.
 
@@ -48,5 +48,5 @@ MyFirstUE5Game is developed using **Unreal Engine 5**, heavily utilizing the eng
 <div align="center">
 <sub>Built with â¤ï¸ using Unreal Engine 5</sub>
 <br><br>
-<img src="ScreenShots/github-readme-banner.svg" alt="Creator Signature Banner"/>
+<img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
